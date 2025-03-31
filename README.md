@@ -1,6 +1,6 @@
 # Hi there! I'm Shashank N Malagi 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=22&color=blue&lines=Computer+Science+Student;Passionate+Developer;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=22&color=blue&lines=Computer+Science+Student;
 
 ## 🚀 About Me
 I'm a passionate **Computer Science student** at **SKSVMACET College of Engineering**, currently pursuing my **B.E.** My journey is driven by an insatiable curiosity for technology and a commitment to creating innovative solutions.
