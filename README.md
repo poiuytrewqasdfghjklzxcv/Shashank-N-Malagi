@@ -30,5 +30,4 @@ I'm a passionate **Computer Science student** at **SKSVMACET College of Engineer
 ![GitHub Stats](https://github.com/poiuytrewqasdfghjklzxcv)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/feed/?legoTrackingToken=c34ZpnFFkTBxr71PqmgCc2UMfmlOrSdjtOoZsC5gr6litOoZp6Zdr6litOoVejAVejRApnhPpnlNpl9JtmUCjAZ9l4BjjR0Zuk9OpmhOjThBpShFtOpQrClQrCBvsClHpmlPnS9LqBYOtChxs6xzrDlxr3RAinhBpShFtOoMfmVLqnhFsSZgt6lDp6BT9z0Kc3RBsCZzkT9D9zROol1Ipl9OpOoZp6Zdr6lisCsCc3RKrSBQqndLk71RrT9D9zAVejAVfmhBt7dBtn5BkCRRjD1RrT9D9DhItm5CpmgZp4BMtmZOpOpejQBkildfk3RVgD9Bp79L9DhItm5CpmgZp4BQrClJpSlP9DhKpnhKqjRAinhLr7cCt6NRompBp3RAinhRrTBxr2oOtChxs6xzrDlxr3RBrm5epmtxs2pEt7tLsCsZp4BMs64Ccj8Ne3sOfmh9rCZFsT9BtyoVe3AUdPcUdj0Nfmh9tioPdPgQdj1AcSdxpzwJom5Be2RydCgQbjByczAJdj5BomdCoz0Zp4BQu6lQrCZz)
-[![Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![LinkedIn](https://www.linkedin.com/in/shashank-malagi-a11547256)
