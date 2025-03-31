@@ -26,6 +26,23 @@ JAVA,PYTHON,HTML,CSS,SQL
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github.com/poiuytrewqasdfghjklzxcv)
 
+## Projects 
+1."E-Commerce Website Using Django" 
+An e-commerce website using Django involves building a platform that allows users to browse products, manage their
+ shopping carts, and securely process transactions. It leverages Django's powerful ORM, authentication system, and
+ templating engine to create a dynamic and scalable online shopping experience. 
+2."Canteen Cafe " 
+The Canteen Cafe project involves creating a web application that allows users to browse the menu, place orders, and
+ make payments online. It typically features an admin panel for managing inventory and orders, enhancing the efficiency
+ of café operations.
+ 3.“AI-Powered Price Prediction for Agri and Vegetable Markets”
+ AI-powered price prediction for agricultural and vegetable markets using CNN leverages deep learning to analyze historical
+ price trends, weather patterns, and market demand for accurate forecasting.
+ 4.”Improving Deployment Speed And Reducing Production Issue With Devops Practices”
+ The  DevOps practices to accelerate deployment and reduce production issues. It focuses on building a scalable, automated
+ CI/CD pipeline using IBM Cloud Kubernetes Service (IKS) and Container Registry. Key activities include containerization,
+ automated workflows, and continuous monitoring for improvement
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-malagi-a11547256/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+
