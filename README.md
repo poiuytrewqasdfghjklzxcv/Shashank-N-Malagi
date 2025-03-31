@@ -30,4 +30,4 @@ I'm a passionate **Computer Science student** at **SKSVMACET College of Engineer
 ![GitHub Stats](https://github.com/poiuytrewqasdfghjklzxcv)
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://www.linkedin.com/in/shashank-malagi-a11547256)
+[![LinkedIn](![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-malagi-a11547256/)
